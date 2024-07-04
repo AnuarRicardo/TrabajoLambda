@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Josefa Cardenas\\source\\repos\\lambda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3D54C9-C5BA-44A9-94C9-C64A0ACFB7B6}|lambda.csproj|c:\\users\\josefa cardenas\\source\\repos\\lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3D54C9-C5BA-44A9-94C9-C64A0ACFB7B6}|lambda.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3D54C9-C5BA-44A9-94C9-C64A0ACFB7B6}|lambda.csproj|c:\\users\\josefa cardenas\\source\\repos\\lambda\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3D54C9-C5BA-44A9-94C9-C64A0ACFB7B6}|lambda.csproj|solutionrelative:estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Josefa Cardenas\\source\\repos\\lambda\\estudiante.cs",
+              "RelativeDocumentMoniker": "estudiante.cs",
+              "ToolTip": "C:\\Users\\Josefa Cardenas\\source\\repos\\lambda\\estudiante.cs",
+              "RelativeToolTip": "estudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:53:47.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Josefa Cardenas\\source\\repos\\lambda\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Josefa Cardenas\\source\\repos\\lambda\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:50:15.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
